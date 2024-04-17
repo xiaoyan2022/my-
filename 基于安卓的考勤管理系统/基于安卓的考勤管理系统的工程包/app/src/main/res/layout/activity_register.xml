@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".activity.RegisterActivity">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_4ec8ff"
+        app:navigationIcon="@mipmap/iv_back"
+        app:title="注册"
+        app:titleTextColor="@color/white"
+        tools:ignore="MissingConstraints" />
+
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/et_user_name"
+        style="@style/et_style"
+        android:layout_width="300dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="60dp"
+        android:hint="请输入用户名"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/toolbar" />
+
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/et_user_pswd"
+        style="@style/et_style"
+        android:layout_width="300dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="10dp"
+        android:hint="请输入密码"
+        android:inputType=""
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/et_user_name" />
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/btn_register"
+        android:layout_width="300dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/btn_bg"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="注册"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/et_user_pswd" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

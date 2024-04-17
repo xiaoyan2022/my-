@@ -1,0 +1,127 @@
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\bin\Debug\人力资源管理系统.exe
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\bin\Debug\人力资源管理系统.pdb
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.exe
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.pdb
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.AdminForm.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmUserManagement.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmChangeUser.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmEmployeeManagement.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.AddEmployee.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeEmployee.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.FindEmployee.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmAttendanceManagement.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmRewardManagement.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmWagesManagement.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.FindWages.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.AddWages.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeWages.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.FindAttendance.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.AddAttendance.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeAttendance.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.AddReward.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeReward.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.FindReward.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.Login.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.exe
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.pdb
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\bin\Debug\人力资源管理系统.exe
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\bin\Debug\人力资源管理系统.pdb
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.AddAttendance.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.AddEmployee.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.AddReward.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.AddWages.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeAttendance.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeEmployee.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeReward.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeWages.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.DeleteAttendance.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.DeleteEmployee.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.DeleteReward.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.DeleteWages.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.FindAttendance.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.FindEmployee.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.FindReward.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.FindWages.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.frmAttendanceManagement.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.frmRewardManagement.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.frmWagesManagement.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.Login.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.AdminForm.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.frmChangeUser.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.frmEmployeeManagement.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.frmUserManagement.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.OtherUserForm.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\正式备份\41人力资源管理系统——窗体闪烁问题解决 - 副本\人力资源管理系统\obj\Debug\人力资源管理系统.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.SearchInAttendance.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.SearchInEmployee.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.SearchInReward.resources
+D:\Documents\Visual Studio 2008\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.SearchInWages.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\bin\Debug\人力资源管理系统.exe.config
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.exe
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.pdb
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\bin\Debug\人力资源管理系统.exe
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\bin\Debug\人力资源管理系统.pdb
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.AddAttendance.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.AddEmployee.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.AddReward.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.AddWages.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeAttendance.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeEmployee.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeReward.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeWages.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.FindAttendance.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.FindEmployee.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.FindReward.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.FindWages.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmAttendanceManagement.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmRewardManagement.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmWagesManagement.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.Login.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.AdminForm.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmChangeUser.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmEmployeeManagement.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmUserManagement.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.Properties.Resources.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.SearchInAttendance.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.SearchInEmployee.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.SearchInReward.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.SearchInWages.resources
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.csproj.GenerateResource.Cache
+D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.csprojResolveAssemblyReference.cache
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\bin\Debug\人力资源管理系统.exe.config
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\bin\Debug\人力资源管理系统.exe
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\bin\Debug\人力资源管理系统.pdb
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.csprojResolveAssemblyReference.cache
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.AddAttendance.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.AddEmployee.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.AddReward.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.AddWages.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeAttendance.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeEmployee.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeReward.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.ChangeWages.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.FindAttendance.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.FindEmployee.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.FindReward.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.FindWages.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmAttendanceManagement.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmRewardManagement.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmWagesManagement.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.Login.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.AdminForm.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmChangeUser.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmEmployeeManagement.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.frmUserManagement.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.Properties.Resources.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.SearchInAttendance.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.SearchInEmployee.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.SearchInReward.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.SearchInWages.resources
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.csproj.GenerateResource.Cache
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.exe
+D:\人力资源管理系统\源码\siso-master\demo\人力资源管理系统\人力资源管理系统\obj\Debug\人力资源管理系统.pdb

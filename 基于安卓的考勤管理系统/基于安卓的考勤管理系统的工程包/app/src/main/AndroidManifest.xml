@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.app.covw">
+
+    <uses-permission
+        android:name="android.permission.WRITE_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission
+        android:name="android.permission.WRITE_SECURE_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AndroidDemo">
+        <activity android:name=".mine.AddMySignActivity"/>
+        <activity android:name=".mine.MySignActivity" />
+        <activity android:name=".mine.AddLeaveActivity" />
+        <activity android:name=".mine.MyLeaveActivity" />
+        <activity android:name=".activity.EditActivity" />
+        <activity android:name=".activity.CenterActivity" />
+        <activity
+            android:name=".activity.Main2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.InformationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.UpdateSignActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.UpdateClassManagerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.UpdateCourseActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.UpdateStudentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.AddSignActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.AddCourseActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.AddStudentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.StudentActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.LeaveManagerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.SignActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.CourseActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.IdentityActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.AddClassManagerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.ClassManagerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.RegisterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.WelcomeActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

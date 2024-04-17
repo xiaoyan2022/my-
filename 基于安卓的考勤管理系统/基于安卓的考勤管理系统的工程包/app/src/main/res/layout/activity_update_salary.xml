@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".activity.UpdateCourseActivity">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_4ec8ff"
+        app:navigationIcon="@mipmap/iv_back"
+        app:title="修改课程信息"
+        app:titleTextColor="@color/white" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/et_bg"
+        app:layout_constraintTop_toBottomOf="@id/toolbar">
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="课程编号："
+            android:textColor="@color/textColor"
+            android:textSize="15sp" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/course_number"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:hint="请输入课程编号"
+            android:inputType="number" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/et_bg"
+        app:layout_constraintTop_toBottomOf="@id/toolbar">
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="课程名称："
+            android:textColor="@color/textColor"
+            android:textSize="15sp" />
+
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/course_name"
+            style="@style/et_style_1"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="请输入名称" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/et_bg"
+        app:layout_constraintTop_toBottomOf="@id/toolbar">
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="任课老师："
+            android:textColor="@color/textColor"
+            android:textSize="15sp" />
+
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/course_teacher"
+            style="@style/et_style_1"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="请输入任课老师姓名" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/et_bg"
+        app:layout_constraintTop_toBottomOf="@id/toolbar">
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="登记时间："
+            android:textColor="@color/textColor"
+            android:textSize="15sp" />
+
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/course_time"
+            style="@style/et_style_1"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:digits="1234567890-"
+            android:hint="请输入登记时间" />
+
+    </LinearLayout>
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="320dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/dp_40"
+        android:background="@drawable/btn_bg"
+        android:gravity="center"
+        android:onClick="add_push"
+        android:text="保存"
+        android:textColor="@color/white"
+        android:textSize="17sp" />
+
+
+</LinearLayout>

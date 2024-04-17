@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="人力资源管理系统">
+</Property><Property Name="解决方案文件" Value="D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统.sln">
+</Property><Property Name="用户选项文件" Value="D:\C#\siso-master\demo\人力资源管理系统\人力资源管理系统.suo">
+</Property><Property Name="Date" Value="2023年4月28日">
+</Property><Property Name="Time" Value="17:28">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="人力资源管理系统.sln" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统.sln">
+</Event><Event ErrorLevel="0" Project="" Source="人力资源管理系统.suo" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统.suo">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\人力资源管理系统.csproj" Description="项目文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\人力资源管理系统.csproj">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\AddAttendance.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\AddAttendance.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\AddAttendance.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\AddAttendance.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\AddEmployee.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\AddEmployee.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\AddEmployee.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\AddEmployee.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\AddReward.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\AddReward.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\AddReward.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\AddReward.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\AddWages.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\AddWages.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\AddWages.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\AddWages.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\ChangeAttendance.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\ChangeAttendance.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\ChangeAttendance.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\ChangeAttendance.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\ChangeEmployee.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\ChangeEmployee.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\ChangeEmployee.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\ChangeEmployee.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\ChangeReward.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\ChangeReward.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\ChangeReward.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\ChangeReward.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\ChangeWages.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\ChangeWages.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\ChangeWages.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\ChangeWages.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\FindAttendance.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\FindAttendance.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\FindAttendance.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\FindAttendance.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\FindEmployee.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\FindEmployee.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\FindEmployee.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\FindEmployee.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\FindReward.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\FindReward.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\FindReward.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\FindReward.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\FindWages.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\FindWages.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\FindWages.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\FindWages.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmAttendanceManagement.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmAttendanceManagement.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmAttendanceManagement.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmAttendanceManagement.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmRewardManagement.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmRewardManagement.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmRewardManagement.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmRewardManagement.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmWagesManagement.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmWagesManagement.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmWagesManagement.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmWagesManagement.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Login.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Login.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Login.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Login.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmAdmin.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmAdmin.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmAdmin.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmAdmin.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmChangeUser.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmChangeUser.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmChangeUser.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmChangeUser.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmEmployeeManagement.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmEmployeeManagement.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmEmployeeManagement.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmEmployeeManagement.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmUserManagement.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmUserManagement.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmUserManagement.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmUserManagement.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Program.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Program.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\SearchInAttendance.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\SearchInAttendance.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\SearchInAttendance.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\SearchInAttendance.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\SearchInEmployee.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\SearchInEmployee.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\SearchInEmployee.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\SearchInEmployee.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\SearchInReward.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\SearchInReward.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\SearchInReward.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\SearchInReward.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\SearchInWages.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\SearchInWages.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\SearchInWages.Designer.cs" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\SearchInWages.Designer.cs">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Properties\Settings.settings" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\login.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\login.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\login背景.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\login背景.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\login中间位置.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\login中间位置.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\版本信息.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\版本信息.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\欢迎进入.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\欢迎进入.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\欢迎进入背景.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\欢迎进入背景.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\图片.jpg" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\图片.jpg">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\中间字体.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\中间字体.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\login整体合并.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\login整体合并.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\登陆按钮.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\登陆按钮.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\取消按钮.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\取消按钮.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\蓝色按钮.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\蓝色按钮.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\绿色按钮.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\绿色按钮.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\上边框.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\上边框.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\index-footer-bg.gif" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\index-footer-bg.gif">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\index-header-bg.gif" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\index-header-bg.gif">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\index-menu-bg2.gif" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\index-menu-bg2.gif">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\index-subnav-bg.gif" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\index-subnav-bg.gif">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\page-bg.gif" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\page-bg.gif">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\page-pageTitle-bg.gif" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\page-pageTitle-bg.gif">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\主界面主标题.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\主界面主标题.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\index-nav-left (2).png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\index-nav-left (2).png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\index-nav-left.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\index-nav-left.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\index-nav-right (2).png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\index-nav-right (2).png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\index-nav-right.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\index-nav-right.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\右.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\右.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Resources\子界面按钮背景.png" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Resources\子界面按钮背景.png">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\AddAttendance.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\AddAttendance.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\AddEmployee.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\AddEmployee.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\AddReward.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\AddReward.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\AddWages.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\AddWages.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\ChangeAttendance.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\ChangeAttendance.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\ChangeEmployee.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\ChangeEmployee.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\ChangeReward.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\ChangeReward.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\ChangeWages.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\ChangeWages.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\FindAttendance.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\FindAttendance.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\FindEmployee.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\FindEmployee.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\FindReward.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\FindReward.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\FindWages.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\FindWages.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmAttendanceManagement.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmAttendanceManagement.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmRewardManagement.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmRewardManagement.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmWagesManagement.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmWagesManagement.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Login.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Login.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmAdmin.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmAdmin.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmChangeUser.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmChangeUser.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmEmployeeManagement.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmEmployeeManagement.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\frmUserManagement.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\frmUserManagement.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\Properties\Resources.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\SearchInAttendance.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\SearchInAttendance.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\SearchInEmployee.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\SearchInEmployee.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\SearchInReward.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\SearchInReward.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\SearchInWages.resx" Description="文件已成功备份为 D:\C#\siso-master\demo\人力资源管理系统\Backup\人力资源管理系统\SearchInWages.resx">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\人力资源管理系统.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="人力资源管理系统" Source="人力资源管理系统\人力资源管理系统.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="人力资源管理系统.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="人力资源管理系统.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="人力资源管理系统" Source="人力资源管理系统\人力资源管理系统.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

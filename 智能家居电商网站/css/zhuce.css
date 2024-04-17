@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0;
+    /*overflow: hidden;*/
+    overflow: scroll;
+}
+ul,li {
+    list-style: none;
+}
+img {
+    display: block;
+}
+a {
+    text-decoration: none;
+}
+/*头部区域start*/
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+header {
+    height: 84px;
+    border-bottom: 2px solid #c81523;
+}
+.logo {
+    position: absolute;
+    width: 171px;
+    height: 61px;
+
+}
+.registerarea {
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+.registerarea h3 {
+    height: 42px;
+    border-bottom: 1px solid #ccc;
+    background-color: #ececec;
+    line-height: 42px;
+    padding: 0 10px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.login {
+    float: right;
+    font-size: 14px;
+}
+.login a {
+    color: #c81523;
+}
+.reg_form {
+    width: 600px;
+    margin: 50px auto 0;
+}
+.reg_form ul li {
+    margin-bottom: 20px;
+    width: 100%;
+    font-size: 14px;
+}
+.reg_form ul li label {
+    display: inline-block;
+    width: 88px;
+    text-align: right;
+}
+.reg_form ul li .inp {
+    width: 242px;
+    height: 37px;
+    border: 1px solid #ccc;
+}
+.error {
+    color: #c81523;
+}
+.error_icon,
+.success_icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    background: url(../images/error.png) no-repeat;
+    margin-top: -2px;
+}
+.success {
+    color: green;
+}
+.success_icon {
+    background: url(../images/success.png) no-repeat;
+}
+.safe {
+    padding-left: 170px;
+}
+.safe em {
+    padding: 0 12px;
+    color: #fff;
+}
+.ruo {
+    background-color: #de1111;
+}
+.zhong {
+    background-color: #40b83f;
+}
+
+.qiang {
+    background-color: #f79100;
+}
+.agree {
+    padding-left: 95px;
+}
+.agree input {
+    vertical-align: middle;/*垂直样式居中*/
+}
+.agree a {
+    color: #1ba1e6;
+}
+.btn {
+    width: 200px;
+    height: 34px;
+    background-color: #c81623;
+    font-size: 14px;
+    color: #fff;
+    margin: 30px 0 0 70px;
+}
+/*main区域end*/
+/*footer区域start*/
+footer {
+    position: absolute;
+    width: 100%;
+    height: 56px;
+    background-color: #CCCCCC;
+    bottom:-250px;
+}
+.footer_box {
+    width: 1236px;
+}
+footer .left {
+    float: left;
+    height: 56px;
+    line-height: 56px;
+    margin-left: 100px;
+}
+footer .left a {
+    color: whitesmoke;
+}
+footer .right {
+    float: right;
+    color: white;
+    height: 56px;
+    line-height: 56px;
+    text-align: center;
+    margin-right: 100px;
+}
+/*footer区域end*/

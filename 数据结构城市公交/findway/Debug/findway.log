@@ -1,0 +1,52 @@
+﻿  main.cpp
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(89,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(97,2): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(106,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(108,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(112,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(115,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(119,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(125,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(128,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(130,4): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(383,28): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(404,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(432,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(642,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(657,6): warning C4101: “aa”: 未引用的局部变量
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(920,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(922,2): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(929,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(942,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(948,4): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(924,9): warning C4101: “j”: 未引用的局部变量
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(980,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(983,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(986,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(993,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(996,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(965,7): warning C4101: “ch”: 未引用的局部变量
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1026,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1075,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1084,24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1093,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1103,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1109,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1112,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1122,23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1128,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1131,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1142,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1148,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1159,23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1166,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1169,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1172,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1185,23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1192,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1195,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1210,24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1220,24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1235,24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\桌面\计算机2001 颜奇昌  33\findway\main.cpp(1040,9): warning C4101: “zcx”: 未引用的局部变量
+  findway.vcxproj -> D:\桌面\计算机2001 颜奇昌  33\Debug\findway.exe

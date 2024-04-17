@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp">
+
+        <androidx.appcompat.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/color_4ec8ff"
+            app:title="我的"
+            app:titleTextColor="@color/white" />
+
+        <TextView
+            android:id="@+id/edit"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:text="编辑"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="15sp">
+
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@mipmap/man_logo" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="15dp"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/username"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="用户名"
+                android:textColor="#333" />
+
+
+            <TextView
+                android:id="@+id/signature"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="个性签名"
+                android:visibility="gone"
+                android:textColor="#333" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#f5f5f5" />
+
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/credit"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/et_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="信用:   90分"
+        android:textColor="#444" />
+
+    <TextView
+        android:id="@+id/home"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/et_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="所在地："
+        android:textColor="#444" />
+
+
+    <TextView
+        android:id="@+id/hometown"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/et_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="家乡："
+        android:textColor="#444" />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#f5f5f5" />
+
+    <TextView
+        android:id="@+id/school_scl"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/et_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="学校："
+        android:textColor="#444" />
+
+
+    <TextView
+        android:id="@+id/school"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/et_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="专业："
+        android:textColor="#444" />
+
+    <TextView
+        android:id="@+id/professional"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/et_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="职业："
+        android:textColor="#444" />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#f5f5f5" />
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/et_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="感情状况：未婚"
+        android:visibility="gone"
+        android:textColor="#333" />
+
+
+</LinearLayout>

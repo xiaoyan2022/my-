@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>购物网页</title>  
+        <style>
+        .topBar{height: 40px; font-size: 15px; color:#666;line-height: 35px;background-color:white;}
+        .topBar-left{float: left;list-style: none;}                
+        .topBar-right{float: right; list-style: none;}                
+        .topBar-left li,.topBar-right li{margin: 0 2px;float:left;text-align: center;}         
+        .topBar-left li a:hover,.topBar-right li:hover {color:rgb(236, 77, 14);}       
+        .logoBar{height:100px;width: 100%;left: 0px; background-color:white }         
+        .search_box{ width: 447px;padding-top: 33px;padding-left: 160px; }             
+        .search_text{background-color: white; width:360px;height: 35px;padding:0 8px;position:absolute;top:70px;left:450px; }           
+        .search_btn{ width: 70px;height: 39px;position:absolute;top:70px;left:835px;font-size:14px;background-color:violet;font-family: "微软雅黑";color: white;}
+        .navBox{height: 35px;font-size: 20px;color:blueviolet;}       
+        .main{list-style: none;}                
+             .main li{margin: 0 80px;float:left;text-align: left;} 
+             .main li a{padding:0 5px; display: block;height: 35px;}  
+            .main li a:visited,.main li a:link {color:#DC143C;text-decoration: none;}
+            .main li ul{padding:0 0;margin: 0 0;cursor: pointer;display:none;list-style: none;}
+            .main li ul li{text-align: left;line-height: 25px;float:none;}    
+            .main li:hover ul{display:block;position:absolute;}
+            .main li ul li:hover{color:#DC143C;background:azure;} 
+        .footer{ width:1100px;margin:0 auto;border-top:#dddddd 1px solid;margin-top:150px; height: 210px;  background: rgb(245,245,245);text-align: center;}
+        .footer p{ margin-top:20px;}
+        .footer a{color:#666;}.footer a:hover{ color:rgb(228, 121, 89);}.footer .fp{color:#666;margin-top:10px;}
+        .footimg{width="120px";height: "10px";}
+        .list{position: fixed;top: 250px;left: 1380px;font-family: "微软雅黑";font-size: 20px;color:white;}
+        .list a {text-decoration: none;color:white;}
+        .title{font-family: 楷体; color: white;display: block;background-color: #ec6e47;margin-top: 20px;margin-left: 117px; width: 275px;height: 50px;line-height: 50px; }
+        .current{height: 542px; width: 957px; background-color: #FCF; padding: 10px 36px 5px; position: relative;
+            margin: 0 auto; }
+        .current .sale{ margin: 20px 8px 0px;width: 260px;height: 458px; padding: 20px; background-color: white;
+              border: 1px solid darkorange;float: left; }
+        .current img{ width: 253px; height: 278px;}
+        .current .price{ color: red; font-weight: bold; }
+        .current .introduce{ color: deepskyblue; font-weight: normal;text-decoration: none; font-family: 汉仪柳楷繁; display: block; margin: 10px auto; }
+        .current .salemount{ float: left;height: 20px;font-size: smaller; width: 120px;border-right:#CCC solid 1px; line-height: 20px;margin-bottom: 6px;margin-left: 10px;}
+        .current .rate{float: left;color: darkorange; height: 20px; line-height: 20px; font-size:18px;margin-left: 20px; margin-bottom: 20px; }
+        .current .buy{ clear: both; height: 20px;line-height: 20px;width: 145px; text-align: center; padding: 5px 0px; margin: 0px auto;background-color: darkorange;border-radius: 30px;border: 2px solid red; }
+        .current .buy a{ color: white; text-decoration: none; }
+        .current .buy:hover{ background-color:coral; font-size:large; cursor:pointer;}
+        .current .introduce:hover{ text-decoration: underline; }
+
+        </style>        
+    </head>
+    <body bgcolor="plum" >
+        
+        <div class="headerBar">
+        <div class="topBar">
+            <ul class="topBar-left">
+<a name="Top"></a>                <li>欢迎来到耐克官网</li>
+            </ul>
+            <ul class="topBar-right">
+                <li >购物车</li>
+                <li >收藏夹</li>
+                <li><a href="https://www.nike.com/cn/nike-by-you">专属定制</a></li>
+                <li><a href="https://www.nike.com/cn/membership">NLKE会员               </a></li>
+                <li><a href="#">登陆</a></li>
+                <li><a href="register.html" target="_blank">注册</a></li>
+            </ul>
+        </div>  
+        <div class="logoBar">
+            <div class="search_box">
+               <input type="text" class="search_text" >
+               <input type="button" value="搜 索" class="search_btn">   
+            </div>
+        </div>
+
+        </div>    
+      <div class="navBox">
+        <div class="Main">
+         <ul class="main">
+                <li><a class="main1" href="#" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;服饰区</a> 
+                      <ul >  <li href="#" >女装</li><li href="#">男装</li><li href="#">女鞋</li><li href="#">男鞋</li><li href="#">卫衣</li><li href="#">外套</li> </ul></li>                                       
+                <li><a  class="main2" href="#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;美妆区</a>
+                    <ul>  <li href="#">面膜</li><li href="#">香水</li><li href="#">口红</li><li href="#">洁面</li><li href="#">精华</li><li href="#">美甲</li> </ul></li>      
+                <li><a  class="main3" href="#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;饰品区</a>
+                  <ul>  <li href="#">项链</li><li href="#">耳饰</li><li href="#">帽子</li><li href="#">手表</li><li href="#">珠宝</li><li href="#">眼镜</li> </ul></li>  
+                <li><a  class="main4" href="#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;生活区</a>
+                   <ul>  <li href="#">沙发</li><li href="#">灯具</li><li href="#">橱柜</li><li href="#">药品</li><li href="#">烤箱</li><li href="#">空调</li> </ul></li>
+                <li><a  class="main5" href="#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </ul>
+      </div>
+      <table cellspacing="2" align="center">
+       <tr><td><a href="wdress.html" target="_blank"><img src="images/q.jpg" width="1500" height="400"></a></td>
+      </table>
+
+      <table class="list" border="1" bgcolor="violet" bordercolor="white"cellpadding="5">
+        <tr><td><a href="wdress.html" target="_blank">热门女装>></a></td></tr>
+        <tr><td><a href="time.html" target="_blank">限时抢购>></a></td></tr>
+        <tr><td><a href="shopping.html" target="_blank">淘淘超市>></a></td></tr>
+        <tr><td><a href="wdress.html" target="_blank">今日特卖>></a></td></tr>
+        <tr><td><a href="service.html" target="_blank">联系客服>></a></td></tr>
+        <tr><td><a href="#Top">回到顶部>></a></td></tr>
+        
+      </table>
+      <p align="center" style="font-family: 宋体;font-size: 30px;color: black;"><b>-今日推荐-</b></p>
+     <table  border="1" bordercolor="crimson" cellspacing="10" align="center">
+
+    <div class="current">
+        <div class="sale">
+          <a href="https://www.nike.com/cn/t/%E7%94%B7%E5%AD%90%E7%9F%AD%E8%A2%96%E7%AF%AE%E7%90%83t%E6%81%A4-pzM399/DC1284-910"><img src="images/w.jpg"></a>
+          <div class="price">&yen;588</div>
+          <a href="#" class="introduce">it UNDER GARDEN男连帽拉链冲锋衣2018春夏新品7205XAA</a>
+          <div class="salemount"><span>销售量：10</span></div>
+          <div class="rate">评价：6</div>
+          <div class="buy"><a href="#">立即抢购</a></div>
+        </div>
+        <div class="sale">
+          <a href="https://www.nike.com/cn/t/kyrie-7-cncpts-ep-%E7%94%B7%E5%AD%90%E7%AF%AE%E7%90%83%E9%9E%8B-CgJ0vb/CT1137-900"><img src="images/e.jpg"></a>
+          <div class="price">&yen;789</div>
+          <a href="#" class="introduce">古埃及的神秘，为欧文系列带来无穷魅力。Kyrie 7 CNCPTS EP </a>
+          <div class="salemount"><span>销售量：20</span></div>
+          <div class="rate">评价：8</div>
+          <div class="buy"><a href="#">立即抢购</a></div>
+        </div>
+        <div class="sale">
+            <a href="#"><img src="images/r.jpg"></a>
+            <div class="price">&yen;999</div>
+            <a href="https://www.nike.com/cn/t/2020-%E8%B5%9B%E5%AD%A3%E9%87%91%E5%B7%9E%E5%8B%87%E5%A3%AB%E9%98%9F-icon-edition-nba-swingman-jersey-%E7%94%B7%E5%AD%90%E7%90%83%E8%A1%A3-2Rfj7X/CW3665-401" class="introduce">2020 赛季金州勇士队 (Stephen Curry) Icon Edition Nike NBA Swingman Jersey </a>
+            <div class="salemount"><span>销售量：30</span></div>
+            <div class="rate">评价：11</div>
+            <div class="buy"><a href="#">立即抢购</a></div>
+        </div>
+    </div>
+
+        <tr>
+            <td rowspan="2"><a href="wdress.html" target="_blank"><img src="img/bb.png" width="300px" height="600px"></a></td>
+            <td rowspan="2" colspan="2"><a href="wdress.html" target="_blank"><img src="img/dd.png" width="600px" height="600px"></a></td>
+            <td><a href="height" target="_blank"><img src="img/ee.jpg" width="300px" height="300px"></a></td>                 
+        </tr>
+        <tr>
+            <td><img src="img/qq.jpg" width="300px" height="300px"></td>                     
+        </tr>
+        <tr>
+            <td><img src="img/ww.jpg" width="300px" height="300px"></td> 
+            <td><img src="img/rr.jpg"  width="300px" height="300px"></td>
+            <td><img src="img/tt.jpg" width="300px" height="300px"></td>
+            <td><img src="img/yy.jpg" width="300px" height="300px"></td>          
+        </tr>
+        <tr>
+            <td><img src="img/uu.jpg" width="300px" height="300px"></td> 
+            <td><img src="img/ii.jpg"  width="300px" height="300px"></td>
+            <td><img src="img/oo.jpg" width="300px" height="300px"></td>
+            <td><img src="img/pp.jpg" width="300px" height="300px"></td>        
+        </tr>
+        <tr>
+            <td><img src="img/ss.jpg" width="300px" height="300px"></td> 
+            <td><img src="img/ff.jpg"  width="300px" height="300px"></td>
+            <td><img src="img/gg.jpg" width="300px" height="300px"></td>
+            <td><img src="img/hh.jpg" width="300px" height="300px"></td>        
+        </tr>
+
+
+     </table> 
+     <div class="current">
+        <div class="sale">
+          <a href="https://www.nike.com/cn/t/naomi-osaka-%E5%A5%B3%E5%AD%90%E7%BD%91%E7%90%83%E8%BF%9E%E8%A1%A3%E8%A3%99-pvHLHL/DJ4157-010"><img src="images/t.jpg"></a>
+          <div class="price">&yen;666</div>
+          <a href="#" class="introduce">Naomi Osaka 女子网球连衣裙采用针织面料搭配匠心排布的网眼布拼接和交叉肩带设计</a>
+          <div class="salemount"><span>销售量：55</span></div>
+          <div class="rate">评价：32</div>
+          <div class="buy"><a href="#">立即抢购</a></div>
+        </div>
+        <div class="sale">
+          <a href="https://www.nike.com/cn/t/utility-power-%E8%AE%AD%E7%BB%83%E8%A1%8C%E6%9D%8E%E5%8C%85-ZrpMnq/CK2795-010"><img src="images/u.jpg"></a>
+          <div class="price">&yen;435</div>
+          <a href="#" class="introduce">Nike Utility Power 训练行李包方便在训练往返途中安全收纳装备</a>
+          <div class="salemount"><span>销售量：99</span></div>
+          <div class="rate">评价：59</div>
+          <div class="buy"><a href="#">立即抢购</a></div>
+        </div>
+        <div class="sale">
+            <a href="https://www.nike.com/cn/t/kyrie-%E5%8F%8C%E8%82%A9%E5%8C%85-6XbH68/CU3939-300"><img src="images/y.jpg"></a>
+            <div class="price">&yen;524</div>
+            <a href="#" class="introduce">背上 Kyrie 双肩包，轻松收纳你的装备。采用轻盈耐用的梭织面料，</a>
+            <div class="salemount"><span>销售量：66</span></div>
+            <div class="rate">评价：23</div>
+            <div class="buy"><a href="#">立即抢购</a></div>
+        </div>
+    </div>
+
+     <div class="footer">
+            <p><a href="#">联系我们</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="#">诚聘英才</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="#">合作招商</a>&nbsp;&nbsp; | &nbsp;&nbsp;<a href="#">广告平台</a></p>
+            <p class="fp">本网站直接或间接向消费者推销商品或者服务的商业宣传均属于“广告”（包装及参数、售后保障等商品信息除外）</p>
+            <div class="footimg">
+                    <img src="img/jj.jpg" width="70px";height="60px";>
+                    <img src="img/ll.jpg" width="60px";height="60px">
+                    <img src="img/zz.jpg" width="60px";height="30px">
+            </div>
+        </div>
+    </body>
+</html>
+

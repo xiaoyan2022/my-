@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "findway", "findway\findway.vcxproj", "{49809F1D-5AFF-4E54-B845-1F03BB456F7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49809F1D-5AFF-4E54-B845-1F03BB456F7A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49809F1D-5AFF-4E54-B845-1F03BB456F7A}.Debug|Win32.Build.0 = Debug|Win32
+		{49809F1D-5AFF-4E54-B845-1F03BB456F7A}.Release|Win32.ActiveCfg = Release|Win32
+		{49809F1D-5AFF-4E54-B845-1F03BB456F7A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

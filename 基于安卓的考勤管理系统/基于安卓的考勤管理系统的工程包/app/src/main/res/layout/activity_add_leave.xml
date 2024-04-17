@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".mine.AddLeaveActivity">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_4ec8ff"
+        app:navigationIcon="@mipmap/iv_back"
+        app:title="我要请假"
+        app:titleTextColor="@color/white" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/et_bg"
+        app:layout_constraintTop_toBottomOf="@id/toolbar">
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="学生编号："
+            android:textColor="@color/textColor"
+            android:textSize="15sp" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/student_number"
+            style="@style/et_style_1"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="请输入工号" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/et_bg"
+        app:layout_constraintTop_toBottomOf="@id/toolbar">
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="班级编号："
+            android:textColor="@color/textColor"
+            android:textSize="15sp" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/class_number"
+            style="@style/et_style_1"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="请输入班级编号" />
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/et_bg"
+        app:layout_constraintTop_toBottomOf="@id/toolbar">
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="学生姓名："
+            android:textColor="@color/textColor"
+            android:textSize="15sp" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/student_name"
+            style="@style/et_style_1"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="学生姓名" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/et_bg"
+        app:layout_constraintTop_toBottomOf="@id/toolbar">
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="请假原因："
+            android:textColor="@color/textColor"
+            android:textSize="15sp" />
+
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/tv_why"
+            style="@style/et_style_1"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="填写请假原因" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/et_bg"
+        app:layout_constraintTop_toBottomOf="@id/toolbar">
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="开始时间："
+            android:textColor="@color/textColor"
+            android:textSize="15sp" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/start_time"
+            style="@style/et_style_1"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="请输入开始时间" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/et_bg"
+        app:layout_constraintTop_toBottomOf="@id/toolbar">
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:text="结束时间："
+            android:textColor="@color/textColor"
+            android:textSize="15sp" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/end_time"
+            style="@style/et_style_1"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="请输入结束时间" />
+
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_width="320dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/btn_bg"
+        android:gravity="center"
+        android:onClick="btnAdd"
+        android:text="提交"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+
+</LinearLayout>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".activity.AddStudentActivity">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_4ec8ff"
+        app:title="学生端个人中心"
+        app:titleTextColor="@color/white" />
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+         android:onClick="btn_my_leave"
+        android:layout_width="320dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/btn_bg"
+        android:gravity="center"
+        android:text="我要请假"
+        android:textColor="@color/white"
+        android:textSize="20dp" />
+
+
+    <TextView
+        android:onClick="btn_my_sign"
+        android:layout_width="320dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/btn_bg"
+        android:gravity="center"
+        android:text="考勤签到"
+        android:textColor="@color/white"
+        android:textSize="20dp" />
+
+</LinearLayout>

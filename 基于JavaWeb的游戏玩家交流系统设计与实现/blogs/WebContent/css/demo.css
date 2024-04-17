@@ -1,0 +1,21 @@
+html{
+	background-color: #f2f2f2;
+}
+
+
+.cms-breadcrumb {
+    width: 100%;
+    height: 44px;
+    line-height: 44px;
+    padding-left: 10px;
+    background-color: #fff;
+}
+
+.body-card {
+    margin: 15px;
+    padding: 15px;
+}
+
+.color-warn {
+    color: #FF5722;
+}
